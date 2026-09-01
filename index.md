@@ -5,4 +5,10 @@
 
  Developers can send http request to and API endpoint with required parameters. the API process the request and returns response in json format.
 
- This documentation covers authentication, how to get started, quickstart, request and response examples, code sample and troubleshooting.
+ This documentation covers 
+  + authentication
+  + how to get started
+  + quickstart
+  +  request and response examples
+  +  code sample
+  +  troubleshooting
